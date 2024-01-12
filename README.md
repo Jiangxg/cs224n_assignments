@@ -6,5 +6,5 @@ Assignments list:
 - [x] a1: word embedding visualization
 - [x] a2: word2vec
 - [ ] a3
-- [ ] a4
+- [x] a4
 - [ ] a5
