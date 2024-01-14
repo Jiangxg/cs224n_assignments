@@ -7,4 +7,4 @@ Assignments list:
 - [x] a2: word2vec
 - [ ] a3
 - [x] a4
-- [ ] a5
+- [x] a5
