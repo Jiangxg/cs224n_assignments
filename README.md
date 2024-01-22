@@ -8,3 +8,4 @@ Assignments list:
 - [ ] a3
 - [x] a4
 - [x] a5
+- [ ] default final project
